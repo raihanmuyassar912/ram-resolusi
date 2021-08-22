@@ -2,6 +2,7 @@ RENCANA HIDUP WPU
 
 -jaket
   *jaket oz
+  *hodie 
 -baju oz
 -baju lengan panjang
--seminar penjualan
+-celana kargo
